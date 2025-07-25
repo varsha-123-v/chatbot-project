@@ -10,7 +10,7 @@ This repository contains a simple chatbot built using Google's Gemini 1.5 Flash 
 ## How to Run
 1. Get your Gemini API key from Google AI Studio
 2. Install google-generativeai:
-3. 3. Open the Jupyter Notebook and run all cells
+3. Open the Jupyter Notebook and run all cells
 
 ## Example
 you: hello
